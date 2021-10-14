@@ -1,0 +1,2 @@
+oc filter=lfs diff=lfs merge=lfs -text
+sentry-cli filter=lfs diff=lfs merge=lfs -text
